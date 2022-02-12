@@ -1,0 +1,468 @@
+body{
+    display: flex;
+}
+a
+{   
+    color: inherit;
+    text-decoration: none;
+}
+button:hover
+{
+    cursor: pointer;
+}
+.topcontents
+{
+    position: absolute;
+    width: 545px;
+    height: 23px;
+    left: 863px;
+    top: 70px;
+    font-family: Mulish;
+    font-size: normal;
+    font-weight: bold;
+}
+.logo
+{
+    position: absolute;
+    width: 150px;
+    height: 62px;
+    left: 191px;
+    top: 56px;
+}
+.text1
+{
+    position: absolute;
+    width: 445px;
+    height: 338px;
+    left: 190px;
+    top: 283px;
+}
+h2
+{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 48px;
+    line-height: 56px;
+}
+p
+{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 30px;
+    color: #7D7987;
+}
+.headings
+{
+    font-family: Mulish;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.btn
+{
+    font-family: Mulish;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 55px;
+    border-color:#458FF6;
+    padding: 5px;
+    width:40%;
+    height: 50px;
+    background-color:#458FF6;
+}
+.icon1
+{
+    position: absolute;
+    width: 160px;
+    height: 41px;
+    left: 191px;
+    top: 56px;
+}
+.img1
+{
+    position: absolute;
+    left: 46.5%;
+    top: 17.02%;
+}
+.title
+{
+    position: relative;
+    left: 16.19%;
+    margin-top: 800px;
+    text-align:center;
+    width: 1008px;
+    height: 100px;
+}
+h3
+{
+   /* position: absolute;
+    left: 16.19%;
+    top: 117.47%;*/
+    font-family: Mulish;
+    font-size: 30px;
+    font-weight: bold;
+}
+.box1
+{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 240px;
+    top: 1130px;
+}
+.box2
+{
+    position: absolute;
+    width: 345px;
+    height: 350px;
+    top: 1130px;
+    left: 640px;
+}
+.box3
+{
+    position: absolute;
+    width: 345px;
+    height: 350px;
+    top: 1130px;
+    left: 1040px;
+}
+.box4
+{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 240px;
+    top: 1520px;
+}
+.box5
+{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 640px;
+    top: 1520px;
+}
+.box6
+{
+    position: absolute;
+    width: 350px;
+    height: 354px;
+    left: 1040px;
+    top: 1520px;
+}
+.btn1
+{
+    position: absolute;
+    left: 44.75%;
+    right: 43.75%;
+    top:  1840px;
+    border: 1.4px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    color: #458FF6;
+    font-size:16px;
+    line-height: 37px;
+    width: 200px;
+    height:40px;
+    text-align: center;
+    background-color: white;
+}
+.img2
+{
+    position: absolute;
+    left: 8.44%;
+    right: 50.94%;
+    top: 2000px;
+    bottom: 52.39%;
+}
+.text2
+{
+    position: absolute;
+    left: 57.94%;
+    right: 12%;
+    top: 2010px;
+    bottom: 57.63%;
+    width: 445px;
+}
+.btn2
+{
+    position: absolute;
+    left: 57.62%;
+    top: 2352px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    color: #458FF6;
+    font-size:16px;
+    line-height: 37px;
+    width: 200px;
+    height:40px;
+    text-align: center;
+    background-color: white;
+    border: 1.4px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+}
+.img3
+{
+    position: absolute;
+    position: absolute;
+    left: 48.19%;
+    right: 10.25%;
+    top: 2522px;
+    bottom: 41.09%;
+}
+.text3
+{
+    position: absolute;
+    left: 17.5%;
+    right: 66.62%;
+    top: 2522px;
+    bottom: 46.24%;
+    width: 445px;
+}
+.btn3
+{
+    position: absolute;
+    left: 17.5%;
+    top: 2866px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    color: #458FF6;
+    font-size:16px;
+    line-height: 37px;
+    width: 200px;
+    height:40px;
+    text-align: center;
+    background-color: white;
+    border: 1.4px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+}
+.container
+{
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    position: absolute;
+    width: 1120px;
+    height: 425px;
+    left: 242px;
+    top: 3070px;
+    border-radius: 25px;
+}
+h4
+{
+    text-align: center;
+    font-family: Mulish;
+    font-style: normal;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+}
+.box
+{
+    padding-left: 13%;
+    padding-top: 7%;
+}
+.img7
+{
+    width: 110px;
+    height: 110px;
+}
+.text-box
+{
+    position: absolute;
+    left: 24.12%;
+    top: 46.01%;
+    line-height: 48px;
+    width: 300px;
+}
+.text
+{
+    width: 445px;
+    position: absolute;
+    left: 57.12%;
+    top: 49.01%;
+    line-height: 30px;
+}
+.arrow-nav
+{
+    position: absolute;
+    width: 336.43px;
+    height: 20px;
+    left: 358px;
+    top: 467px;
+}
+h6
+{
+    position: absolute;
+    left: 36.56%;
+    top: 3500px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    width: 445px;;
+}
+.rectangle
+{
+    position: absolute;
+    width: 1211px;
+    height: 545px;
+    left: 152px;
+    top: 3796px;
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+.img4
+{
+    position: absolute;
+    width: 340px;
+    height: 246px;
+    left: 33px;
+    top: 31px;
+}
+.article-heading1
+{
+    position: absolute;
+    width: 340px;
+    height: 246px;
+    left: 33px;
+    top: 258px;
+}
+.img5
+{
+    position: absolute;
+    width: 340px;
+    height: 246px;
+    left: 432px;
+    top: 31px;
+}
+.article-heading2
+{
+    position: absolute;
+    width: 340px;
+    height: 246px;
+    left: 432px;
+    top: 258px;
+}
+.img6
+{
+    position: absolute;
+    width: 340px;
+    height: 246px;
+    left: 832px;
+    top: 31px;
+}
+.article-heading3
+{
+    position: absolute;
+    width: 340px;
+    height: 246px;
+    left: 832px;
+    top: 258px;
+}
+.article-heading
+{
+    font-family: Mulish;
+    font-size: 23px;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+    line-height: 25px;
+}
+.btn4
+{
+    position: absolute;
+    left: 42.62%;
+    top: 4380px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    color: #458FF6;
+    font-size:16px;
+    line-height: 37px;
+    width: 200px;
+    height:40px;
+    text-align: center;
+    background-color: white;
+    border: 1.4px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+}
+footer{
+    position: absolute;
+    width:1500px;
+    height: 370px;
+    top: 4590px;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display:flex;
+}
+.Trafalgar
+{
+    position: absolute;
+    left: 11.88%;
+    right: 63.69%;
+    top: 23.64%;
+    bottom: 2.93%;
+}
+.logo
+{
+    position: absolute;
+    left: 8.25%;
+    right: 78.06%;
+    top: -4.25%;
+    bottom: 4.74%;
+    width: 231px;
+    height: 96px;
+}
+.footer-text
+{
+    position: absolute;
+    left: 15.25%;
+    right: 78.06%;
+    top: 23.75%;
+    bottom: 4.74%;
+    width: 350px;
+    height:96px;
+}
+.company
+{
+    position: absolute;
+    width: 391px;
+    height:209px;
+    left: 658px;
+    top: 90px;
+}
+.region
+{
+    position: absolute;
+    width: 391px;
+    height:209px;
+    left: 908px;
+    top: 90px;
+}
+.help
+{
+    position: absolute;
+    width: 345px;
+    height:209px;
+    left: 1158px;
+    top: 90px;
+
+}
+.description
+{
+    font-size: 15px;
+    line-height: 38px;
+    font-style: normal;
+    color: white;
+}
